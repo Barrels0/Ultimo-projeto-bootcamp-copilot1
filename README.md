@@ -1,4 +1,7 @@
 # Ultimo-projeto-bootcamp-copilot1
+
+SEGUI AS INSTRUÇÕES DESTE LINK NO FINAL DA PAGINA: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html
+
 O primeiro passo foi pedir dicas para incentivar as crianças a ler desde cedo, pedi a criação do panfleto que foi realizada porém não foi possivel passar para o idioma solicitado (português), após isso fiz a criação de um email para o palestrante escolhido e por final pedi o passo a passo para a criação do projeto no powerpoint e executei.
 Agora vou mostrar um pouco da minha conversa com o chat copilot.
 
