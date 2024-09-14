@@ -2,7 +2,9 @@
 O primeiro passo foi pedir dicas para incentivar as crianças a ler desde cedo, pedi a criação do panfleto que foi realizada porém não foi possivel passar para o idioma solicitado (português), após isso fiz a criação de um email para o palestrante escolhido e por final pedi o passo a passo para a criação do projeto no powerpoint e executei.
 Agora vou mostrar um pouco da minha conversa com o chat copilot.
 O que eu pedi: dicas para incentivar as crianças a ler desde cedo.
+
 O que eu recebi:
+
 Incentivar as crianças a ler desde cedo é uma ótima maneira de promover o desenvolvimento cognitivo e emocional delas. Aqui estão algumas dicas práticas para ajudar nesse processo:
 
 1. **Crie um ambiente de leitura**: Tenha um espaço confortável e bem iluminado com uma estante de livros acessível. Deixe os livros ao alcance das crianças para que possam explorá-los livremente¹.
@@ -22,6 +24,7 @@ Incentivar as crianças a ler desde cedo é uma ótima maneira de promover o des
 8. **Elogie e incentive**: Valorize os esforços das crianças na leitura, mesmo que estejam apenas começando. Elogios e incentivos ajudam a manter a motivação².
 
 O que eu pedi: Escreva um e-mail para uma campanha para convidar autores locais de livros infantis para palestrar no evento.
+
 O que eu recebi: Claro! Aqui está um modelo de e-mail que você pode usar para convidar autores locais de livros infantis para palestrar no seu evento:
 
 ---
@@ -57,6 +60,7 @@ Atenciosamente,
 Apos esse modelo eu pedi para ele mudar algumas coisas com as informações que eu passei mas acabei perdendo essa parte da conversa :(
 
 O que eu pedi: Crie uma apresentação para iniciar o evento
+
 O que eu recebi: Claro, Nickolas! Aqui está um esboço de apresentação para iniciar o evento de literatura infantil:
 
 ---
